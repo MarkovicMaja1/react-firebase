@@ -1,7 +1,9 @@
 Running the application through VS Code: 
 
 git clone https://github.com/MarkovicMaja1/react-firebase.git file_name
+
 npm install firebase
+
 npm start
 
 
