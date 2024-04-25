@@ -1,3 +1,10 @@
+Running the application through VS Code: 
+
+git clone https://github.com/MarkovicMaja1/react-firebase.git file_name
+npm install firebase
+npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
